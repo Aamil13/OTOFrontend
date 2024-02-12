@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.vidd{
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.svidd{
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+}
